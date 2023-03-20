@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "jest": "^29.5.0"
+  },
+  "name": "bank_tech_test",
+  "description": "",
+  "version": "1.0.0",
+  "main": "bankTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
