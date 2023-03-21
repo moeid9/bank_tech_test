@@ -1,4 +1,5 @@
-const Account = require('./bankTest.js');
+/* eslint-disable no-undef */
+const Account = require('./bankTest.js').default;
 
 describe('Account', () => {
   let account;

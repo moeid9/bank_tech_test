@@ -42,7 +42,7 @@ class Account {
   }
 }
 
-module.exports = Account;
+export default Account;
 
 // const account = new Account();
 // account.deposit("10/01/2023", 1000);
